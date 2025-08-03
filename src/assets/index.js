@@ -10,9 +10,9 @@ import gsap from './tech/gsap.png'
 import framer from './tech/framer.png';
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
-import gearXpert from './gearXpert.png';
-import project3 from './project3.webp';
-import project2 from './proj1.webp'
+import gearXpert from './health.webp';
+import project3 from './proj3.png';
+import project2 from './proj1.jpg'
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
 import aws from './tech/aws.png';
