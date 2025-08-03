@@ -154,52 +154,55 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full-Stack Developer",
-    company_name: "Tekisky",
+    title: "Frontend Developer Intern",
+    company_name: "Teach2Grow",
     icon: tekisky,
     iconBg: "#383E56",
-    date: "Jan 2023 - present",
+    date: "June 2025 - July 2025",
     points: [
-      "Developing and maintaining web applications using MERN technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+     [
+  "Built and customized responsive web pages within Graphy’s code structure using HTML, CSS, and JavaScript.",
+  "Adapted quickly to unfamiliar code environments and workflows, demonstrating strong learning agility.",
+  "Collaborated with the team to improve UI/UX and align implementations with modern design standards.",
+  "Contributed to the development of heymentor.in, helping shape its frontend experience.",
+]
+,
     ],
   },
 ];
 
 const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
-    name: "MD Mustaqeem",
-    designation: "Ecommerce",
-    company: "QuickMart",
-    image: firstTestimonial,
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
-    name: "Abdul Raheman",
-    designation: "Ecommerce Business",
-    company: "justbuyz",
-    image: secondTestimonial,
-  },
-  {
-    testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "James Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: thirdTestimonial,
-  },
+//   {
+//     testimonial:
+//       "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
+//     name: "MD Mustaqeem",
+//     designation: "Ecommerce",
+//     company: "QuickMart",
+//     image: firstTestimonial,
+//   },
+  // {
+  //   testimonial:
+  //     "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
+  //   name: "Abdul Raheman",
+  //   designation: "Ecommerce Business",
+  //   company: "justbuyz",
+  //   image: secondTestimonial,
+  // },
+  // {
+  //   testimonial:
+  //     "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
+  //   name: "James Wang",
+  //   designation: "CTO",
+  //   company: "456 Enterprises",
+  //   image: thirdTestimonial,
+  // },
 ];
 
 const projects = [
   {
-    name: "Tekisky Mart",
+    name: "NyayVoice",
     description:
-      "Tekisky Mart is a web-based platform that allows users to search, explore, and purchase a wide range of products from various providers, offering a seamless and efficient shopping experience.",
+      " AI-powered tool that helps users generate RTIs, FIRs, and complaints using text,voice or vernacular input",
     tags: [
       {
         name: "react",
@@ -210,31 +213,31 @@ const projects = [
         color: "white-text-gradient",
       },
       {
-        name: "node",
+        name: "bhashini",
         color: "pink-text-gradient",
       },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
+      // {
+      //   name: "mongodb",
+      //   color: "green-text-gradient",
+      // },
  
     ],
     image: project2,
     source_code_link: "https://github.com/",
   },
   {
-    name: "GearXpert",
+    name: "Health Dashboard",
     description:
-      "GearXpert is your ultimate destination for premium auto parts and accessories, Whether you're an automobile enthusiast or a professional, find everything you need to upgrade, repair.",
+      " A responsive health dashboard designed for early detection of mental and physical health issues. built using React and Tailwind, focusing on clean UI, data visualization, and user-friendly tracking features.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
-      {
-        name: "emailJs",
-        color: "green-text-gradient",
-      },
+      // {
+      //   name: "emailJs",
+      //   color: "green-text-gradient",
+      // },
       {
         name: "Gsap",
         color: "pink-text-gradient",
@@ -244,29 +247,29 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "GoGroove-Ecommerce",
+    name: "Portfolio",
     description:
-      "Go-Groove is your ultimate destination for premium products across various categories. Whether you're a savvy shopper or a professional, enhance, and simplify your lifestyle—all in one place!",
+      "My personel portfolio built using ract and three js for 3d animations and gsap for smooth scrolling and animations.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "express",
+        name: "three js",
         color: "white-text-gradient",
       },
-      {
-        name: "node",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
+      // {
+      //   name: "node",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "mongodb",
+      //   color: "green-text-gradient",
+      // },
     ],
     image: project3,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/HimeshPant/Portfolio.git",
   },
 ];
 
