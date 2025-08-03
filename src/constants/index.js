@@ -111,38 +111,38 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
+  // {
+  //   name: "Redux Toolkit",
+  //   icon: redux,
+  // },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  {
-    name: "Material Ui",
-    icon: mui,
-  },
+  // {
+  //   name: "Material Ui",
+  //   icon: mui,
+  // },
   {
     name: "Node JS",
     icon: nodejs,
   },
-  {
-    name: "Express Js",
-    icon: express,
-  },
-  {
-    name: "AWS",
-    icon: aws,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "MySql",
-    icon: mysql,
-  },
+  // {
+  //   name: "Express Js",
+  //   icon: express,
+  // },
+  // {
+  //   name: "AWS",
+  //   icon: aws,
+  // },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
+  // {
+  //   name: "MySql",
+  //   icon: mysql,
+  // },
 
   {
     name: "git",
