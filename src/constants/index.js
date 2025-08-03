@@ -66,14 +66,14 @@ const services = [
     title: "Frontend Developer",
     icon: mobile,
   },
-  {
-    title: "Backend Developer",
-    icon: backend,
-  },
-  {
-    title: "Ui UX Designer",
-    icon: creator,
-  },
+  // {
+  //   title: "Backend Developer",
+  //   icon: backend,
+  // },
+  // {
+  //   title: "Ui UX Designer",
+  //   icon: creator,
+  // },
 ];
 
 const technologies = [
