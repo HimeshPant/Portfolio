@@ -72,10 +72,8 @@ const About = () => {
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled software developer with experience in  JavaScript, and expertise in frameworks 
-        like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, 
-        scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
-      </p>
+        I'm a second-year CSE student with a growing interest in full-stack web development. I’m currently learning the MERN stack while building projects that focus on usability and real-world application. I’ve worked on frontend internships and solo projects, and I’m continuously improving my skills in JavaScript, React, and backend technologies. I'm also exploring 3D and creative design to bring more life to my interfaces. Open to learning, building, and collaborating.
+</p>
 
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-10">
         {services.map((service, index) => (
